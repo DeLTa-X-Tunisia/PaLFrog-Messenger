@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Version 12 HTML + React OK\PaLFroG\tools\launcher\bin\Debug\net8.0-windows\PaLFroG.Launcher.exe
+C:\Users\User\Desktop\Version 12 HTML + React OK\PaLFroG\tools\launcher\bin\Debug\net8.0-windows\PaLFroG.Launcher.deps.json
+C:\Users\User\Desktop\Version 12 HTML + React OK\PaLFroG\tools\launcher\bin\Debug\net8.0-windows\PaLFroG.Launcher.runtimeconfig.json
+C:\Users\User\Desktop\Version 12 HTML + React OK\PaLFroG\tools\launcher\bin\Debug\net8.0-windows\PaLFroG.Launcher.dll
+C:\Users\User\Desktop\Version 12 HTML + React OK\PaLFroG\tools\launcher\bin\Debug\net8.0-windows\PaLFroG.Launcher.pdb
+C:\Users\User\Desktop\Version 12 HTML + React OK\PaLFroG\tools\launcher\obj\Debug\net8.0-windows\PaLFroG.Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Version 12 HTML + React OK\PaLFroG\tools\launcher\obj\Debug\net8.0-windows\PaLFroG.Launcher.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Version 12 HTML + React OK\PaLFroG\tools\launcher\obj\Debug\net8.0-windows\PaLFroG.Launcher.AssemblyInfo.cs
+C:\Users\User\Desktop\Version 12 HTML + React OK\PaLFroG\tools\launcher\obj\Debug\net8.0-windows\PaLFroG.Launcher.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Version 12 HTML + React OK\PaLFroG\tools\launcher\obj\Debug\net8.0-windows\PaLFroG.Launcher.dll
+C:\Users\User\Desktop\Version 12 HTML + React OK\PaLFroG\tools\launcher\obj\Debug\net8.0-windows\refint\PaLFroG.Launcher.dll
+C:\Users\User\Desktop\Version 12 HTML + React OK\PaLFroG\tools\launcher\obj\Debug\net8.0-windows\PaLFroG.Launcher.pdb
+C:\Users\User\Desktop\Version 12 HTML + React OK\PaLFroG\tools\launcher\obj\Debug\net8.0-windows\PaLFroG.Launcher.genruntimeconfig.cache
+C:\Users\User\Desktop\Version 12 HTML + React OK\PaLFroG\tools\launcher\obj\Debug\net8.0-windows\ref\PaLFroG.Launcher.dll

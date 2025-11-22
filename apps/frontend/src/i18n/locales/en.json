@@ -1,0 +1,166 @@
+{
+    "common": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "edit": "Edit",
+        "send": "Send",
+        "search": "Search",
+        "loading": "Loading...",
+        "error": "Error",
+        "success": "Success"
+    },
+    "auth": {
+        "login": "Login",
+        "logout": "Logout",
+        "signup": "Sign Up",
+        "email": "Email",
+        "password": "Password",
+        "username": "Username",
+        "confirmPassword": "Confirm Password",
+        "forgotPassword": "Forgot Password?",
+        "noAccount": "No account?",
+        "hasAccount": "Already have an account?",
+        "welcome": "Welcome to Palfrog",
+        "secureChat": "Secure peer-to-peer chat"
+    },
+    "chat": {
+        "messages": "Messages",
+        "contacts": "Contacts",
+        "typeMessage": "Type your message...",
+        "online": "Online",
+        "offline": "Offline",
+        "typing": "{{user}} is typing...",
+        "encryptionActive": "E2E Encryption Active",
+        "encryptionPending": "Establishing encryption...",
+        "newMessage": "New message from {{user}}"
+    },
+    "calls": {
+        "incomingCall": "Incoming Call",
+        "outgoingCall": "Outgoing Call",
+        "audioCall": "Audio Call",
+        "videoCall": "Video Call",
+        "accept": "Accept",
+        "reject": "Reject",
+        "endCall": "End Call",
+        "mute": "Mute",
+        "unmute": "Unmute",
+        "videoOn": "Camera On",
+        "videoOff": "Camera Off",
+        "screenShare": "Screen Share"
+    },
+    "ai": {
+        "assistantTitle": "Local AI Assistant",
+        "suggestions": "Reply Suggestions",
+        "conversationSummary": "Conversation Summary",
+        "regenerateSummary": "Regenerate Summary",
+        "generatingSummary": "Generating summary...",
+        "enableAssistant": "Enable AI Assistant",
+        "enablePrompt": "Enable AI assistant for smart suggestions, auto-summaries, and more.",
+        "privacyNote": "🧠 All AI processing happens locally on your device. No data is sent to the cloud.",
+        "preferences": "Preferences",
+        "features": {
+            "autoSummarize": "Auto Summaries",
+            "smartReplies": "Smart Replies",
+            "sentimentAnalysis": "Sentiment Analysis",
+            "autoTranslation": "Auto Translation"
+        },
+        "capabilities": {
+            "summarization": "Summarization",
+            "translation": "Translation",
+            "sentiment": "Sentiment",
+            "suggestions": "Suggestions",
+            "smartReplies": "Smart Replies"
+        },
+        "replies": {
+            "agree": "Agree",
+            "letMeThink": "Let me think",
+            "goodQuestion": "Good question",
+            "youreWelcome": "You're welcome!",
+            "happyToHelp": "Happy to help",
+            "hello": "Hello!",
+            "howAreYou": "How are you?",
+            "interesting": "Interesting",
+            "iSee": "I see",
+            "letsDiscuss": "Let's discuss"
+        }
+    },
+    "files": {
+        "sendFile": "Send File",
+        "fileTooLarge": "File too large. Maximum: {{size}}MB",
+        "transferProgress": "Transfer in progress",
+        "transferComplete": "Transfer complete",
+        "transferFailed": "Transfer failed",
+        "download": "Download"
+    },
+    "settings": {
+        "settings": "Settings",
+        "language": "Language",
+        "theme": "Theme",
+        "notifications": "Notifications",
+        "security": "Security",
+        "privacy": "Privacy"
+    },
+    "deviceTest": {
+        "title": "Camera & Microphone Test",
+        "subtitle": "Make sure your camera and microphone are working properly before joining a call.",
+        "testButton": "Test",
+        "confirmButton": "Confirm",
+        "stopButton": "Stop",
+        "cameraLabel": "Camera",
+        "microphoneLabel": "Microphone",
+        "noCamera": "No camera detected",
+        "noMicrophone": "No microphone detected",
+        "unknownCamera": "Camera",
+        "unknownMicrophone": "Microphone",
+        "volumeLabel": "Input level",
+        "volumeHint": "Speak normally to verify the microphone level.",
+        "previewPlaceholder": "Video preview will appear here once the test starts.",
+        "unsupported": "Your browser does not support media device testing.",
+        "selectDevices": "Select a camera and a microphone to start the test.",
+        "loading": "Requesting access to your camera and microphone...",
+        "testing": "Test in progress. Verify that you see yourself and the volume bar reacts to your voice.",
+        "error": "Unable to start the test. Check your browser permissions and try again.",
+        "success": "Test completed successfully! Your camera and microphone are ready.",
+        "permissionHint": "Please allow camera and microphone access in your browser settings."
+    },
+    "security": {
+        "dashboardTitle": "Security Dashboard",
+        "levels": {
+            "excellent": "Excellent",
+            "good": "Good",
+            "fair": "Fair",
+            "poor": "Poor",
+            "critical": "Critical"
+        },
+        "descriptions": {
+            "excellent": "Your security is optimal. Keep it up!",
+            "good": "Good security level. Some minor improvements possible.",
+            "fair": "Fair security level. Several items need your attention.",
+            "poor": "Insufficient security. Corrective actions are needed.",
+            "critical": "Critical security! Please act immediately."
+        },
+        "categories": {
+            "authentication": "Authentication",
+            "encryption": "Encryption",
+            "privacy": "Privacy",
+            "behavior": "Behavior",
+            "network": "Network"
+        },
+        "lastUpdated": "Last updated:",
+        "improvementTips": "Improvement Tips",
+        "detailedMetrics": "Detailed Metrics",
+        "encryption": "Encryption",
+        "endToEndEncryption": "End-to-End Encryption",
+        "regenerateKeys": "Regenerate Keys",
+        "backupKeys": "Backup Keys",
+        "twoFactorAuth": "Two-Factor Authentication",
+        "twoFactorEnabled": "Two-Factor Authentication Enabled",
+        "scanQRCode": "Scan this QR Code with your authenticator app",
+        "enable2FA": "Enable 2FA",
+        "scanWithAuthenticator": "Scan with Google Authenticator or Authy",
+        "enterVerificationCode": "Enter verification code",
+        "verifyAndEnable": "Verify and Enable",
+        "invalidCode": "Invalid code"
+    }
+}

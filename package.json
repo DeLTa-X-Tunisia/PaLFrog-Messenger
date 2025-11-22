@@ -1,0 +1,29 @@
+{
+    "name": "palfrog-monorepo",
+    "version": "1.0.0",
+    "private": true,
+    "workspaces": [
+        "apps/*",
+        "packages/*"
+    ],
+    "scripts": {
+        "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+        "dev:backend": "npm run start:dev --workspace=apps/backend",
+        "dev:frontend": "npm run dev --workspace=apps/frontend",
+        "dev:electron": "npm run start --workspace=apps/electron",
+        "build:all": "npm run build:frontend && npm run build:electron",
+        "build:frontend": "npm run build --workspace=apps/frontend",
+        "build:electron": "npm run make --workspace=apps/electron",
+        "package:win": "npm run package --workspace=apps/electron -- --platform=win32",
+        "db:dev": "docker-compose up -d",
+        "db:studio": "npx prisma studio --schema=./packages/database/schema.prisma"
+    },
+    "devDependencies": {
+        "concurrently": "^8.0.1",
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "axios": "^1.13.2",
+        "socket.io-client": "^4.8.1"
+    }
+}

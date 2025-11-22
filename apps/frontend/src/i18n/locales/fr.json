@@ -1,0 +1,294 @@
+{
+    "common": {
+        "save": "Sauvegarder",
+        "cancel": "Annuler",
+        "delete": "Supprimer",
+        "edit": "Modifier",
+        "send": "Envoyer",
+        "search": "Rechercher",
+        "loading": "Chargement...",
+        "error": "Erreur",
+        "success": "Succès"
+    },
+    "auth": {
+        "login": "Connexion",
+        "logout": "Déconnexion",
+        "signup": "Inscription",
+        "email": "E-mail",
+        "password": "Mot de passe",
+        "username": "Nom d'utilisateur",
+        "confirmPassword": "Confirmer le mot de passe",
+        "forgotPassword": "Mot de passe oublié ?",
+        "noAccount": "Pas de compte ?",
+        "hasAccount": "Déjà un compte ?",
+        "welcome": "Bienvenue sur Palfrog",
+        "secureChat": "Chat sécurisé peer-to-peer"
+    },
+    "chat": {
+        "messages": "Messages",
+        "contacts": "Contacts",
+        "typeMessage": "Tapez votre message...",
+        "online": "En ligne",
+        "offline": "Hors ligne",
+        "typing": "{{user}} est en train d'écrire...",
+        "encryptionActive": "Chiffrement E2E activé",
+        "encryptionPending": "Établissement du chiffrement...",
+        "newMessage": "Nouveau message de {{user}}"
+    },
+    "calls": {
+        "incomingCall": "Appel entrant",
+        "outgoingCall": "Appel sortant",
+        "audioCall": "Appel audio",
+        "videoCall": "Appel vidéo",
+        "accept": "Accepter",
+        "reject": "Rejeter",
+        "endCall": "Raccrocher",
+        "mute": "Muet",
+        "unmute": "Activer le micro",
+        "videoOn": "Caméra activée",
+        "videoOff": "Caméra désactivée",
+        "screenShare": "Partage d'écran"
+    },
+    "ai": {
+        "assistantTitle": "Assistant IA Local",
+        "suggestions": "Suggestions de réponses",
+        "conversationSummary": "Résumé de la conversation",
+        "regenerateSummary": "Régénérer le résumé",
+        "generatingSummary": "Génération du résumé...",
+        "enableAssistant": "Activer l'Assistant IA",
+        "enablePrompt": "Activez l'assistant IA pour des suggestions intelligentes, des résumés automatiques et plus encore.",
+        "privacyNote": "🧠 Tous les traitements IA s'effectuent localement sur votre appareil. Aucune donnée n'est envoyée au cloud.",
+        "preferences": "Préférences",
+        "features": {
+            "autoSummarize": "Résumés automatiques",
+            "smartReplies": "Réponses intelligentes",
+            "sentimentAnalysis": "Analyse de sentiment",
+            "autoTranslation": "Traduction automatique"
+        },
+        "capabilities": {
+            "summarization": "Résumés",
+            "translation": "Traduction",
+            "sentiment": "Sentiment",
+            "suggestions": "Suggestions",
+            "smartReplies": "Réponses intelligentes"
+        },
+        "replies": {
+            "agree": "D'accord",
+            "letMeThink": "Laisse-moi réfléchir",
+            "goodQuestion": "Bonne question",
+            "youreWelcome": "De rien !",
+            "happyToHelp": "Content de pouvoir aider",
+            "hello": "Salut !",
+            "howAreYou": "Comment ça va ?",
+            "interesting": "Intéressant",
+            "iSee": "Je vois",
+            "letsDiscuss": "Parlons-en"
+        }
+    },
+    "files": {
+        "sendFile": "Envoyer un fichier",
+        "fileTooLarge": "Fichier trop volumineux. Maximum: {{size}}MB",
+        "transferProgress": "Transfert en cours",
+        "transferComplete": "Transfert terminé",
+        "transferFailed": "Échec du transfert",
+        "download": "Télécharger"
+    },
+    "settings": {
+        "settings": "Paramètres",
+        "language": "Langue",
+        "theme": "Thème",
+        "notifications": "Notifications",
+        "security": "Sécurité",
+        "privacy": "Confidentialité"
+    },
+    "deviceTest": {
+        "title": "Test caméra et micro",
+        "subtitle": "Assurez-vous que votre caméra et votre micro fonctionnent avant de démarrer un appel.",
+        "testButton": "Tester",
+        "confirmButton": "Confirmer",
+        "stopButton": "Arrêter",
+        "cameraLabel": "Caméra",
+        "microphoneLabel": "Micro",
+        "noCamera": "Aucune caméra détectée",
+        "noMicrophone": "Aucun micro détecté",
+        "unknownCamera": "Caméra",
+        "unknownMicrophone": "Micro",
+        "volumeLabel": "Niveau d'entrée",
+        "volumeHint": "Parlez normalement pour vérifier le niveau du micro.",
+        "previewPlaceholder": "L'aperçu vidéo apparaîtra ici une fois le test lancé.",
+        "unsupported": "Votre navigateur ne permet pas de tester les périphériques audio/vidéo.",
+        "selectDevices": "Sélectionnez une caméra et un micro pour démarrer le test.",
+        "loading": "Demande d'accès à votre caméra et à votre micro...",
+        "testing": "Test en cours. Vérifiez que vous vous voyez et que la barre réagit à votre voix.",
+        "error": "Impossible de lancer le test. Vérifiez les permissions du navigateur.",
+        "success": "Test réussi ! Votre caméra et votre micro sont prêts.",
+        "permissionHint": "Autorisez l'accès à la caméra et au micro dans les paramètres de votre navigateur."
+    },
+    "security": {
+        "dashboardTitle": "Tableau de bord de sécurité",
+        "levels": {
+            "excellent": "Excellent",
+            "good": "Bon",
+            "fair": "Moyen",
+            "poor": "Faible",
+            "critical": "Critique"
+        },
+        "descriptions": {
+            "excellent": "Votre sécurité est optimale. Continuez ainsi !",
+            "good": "Bon niveau de sécurité. Quelques améliorations mineures possibles.",
+            "fair": "Niveau de sécurité moyen. Plusieurs points nécessitent votre attention.",
+            "poor": "Sécurité insuffisante. Des actions correctives sont nécessaires.",
+            "critical": "Sécurité critique ! Veuillez agir immédiatement."
+        },
+        "categories": {
+            "authentication": "Authentification",
+            "encryption": "Chiffrement",
+            "privacy": "Confidentialité",
+            "behavior": "Comportement",
+            "network": "Réseau"
+        },
+        "lastUpdated": "Dernière mise à jour :",
+        "improvementTips": "Conseils d'amélioration",
+        "detailedMetrics": "Métriques détaillées",
+        "encryption": "Chiffrement",
+        "endToEndEncryption": "Chiffrement de bout en bout",
+        "regenerateKeys": "Régénérer les clés",
+        "backupKeys": "Sauvegarder les clés",
+        "twoFactorAuth": "Double authentification",
+        "twoFactorEnabled": "Double authentification activée",
+        "scanQRCode": "Scannez ce QR Code avec votre application d'authentification",
+        "enable2FA": "Activer la 2FA",
+        "scanWithAuthenticator": "Scannez avec Google Authenticator ou Authy",
+        "enterVerificationCode": "Entrez le code de vérification",
+        "verifyAndEnable": "Vérifier et activer",
+        "invalidCode": "Code invalide"
+    },
+    "bridge": {
+        "dashboardTitle": "Ponts d'Applications",
+        "dashboardDescription": "Connectez Palfrog à vos autres applications de messagerie",
+        "messagesImported": "Messages Importés",
+        "messagesExported": "Messages Exportés",
+        "activeConnections": "Connexions Actives",
+        "connected": "Connecté",
+        "disconnected": "Déconnecté",
+        "connectToService": "Se connecter à {{service}}",
+        "phoneNumber": "Numéro de téléphone",
+        "connect": "Se connecter",
+        "importMessages": "Importer des messages",
+        "contactId": "ID du contact",
+        "importLimit": "Limite d'importation",
+        "startImport": "Démarrer l'importation",
+        "settings": "Paramètres",
+        "autoImport": "Importation automatique",
+        "autoExport": "Exportation automatique",
+        "disconnect": "Se déconnecter",
+        "securityNote": "Note de sécurité",
+        "whatsappSecurity": "La connexion à WhatsApp utilise des méthodes sécurisées. Vos données restent privées.",
+        "importSuccess": "Importation réussie !",
+        "importFailed": "Échec de l'importation",
+        "connectedDescription": "Connecté et synchronisé avec WhatsApp",
+        "disconnectedDescription": "Non connecté à WhatsApp"
+    },
+    "gamification": {
+        "dashboardTitle": "Arcade Sociale",
+        "dashboardSubtitle": "Gagnez des points, débloquez des succès et montez en niveau!",
+        "levelProgress": "Progression du Niveau",
+        "achievements": "Succès",
+        "unlocked": "débloqués",
+        "nextAchievements": "Prochains Succès à Débloquer",
+        "streak": "Série",
+        "points": "Points",
+        "rank": "Rang",
+        "ranks": {
+            "bronze": "Bronze",
+            "silver": "Argent",
+            "gold": "Or",
+            "platinum": "Platine",
+            "diamond": "Diamant"
+        },
+        "dailyQuests": "Quêtes Quotidiennes",
+        "leaderboard": "Classement",
+        "quests": {
+            "sendMessages": "Envoyer 10 messages",
+            "makeCalls": "Faire 3 appels",
+            "shareFiles": "Partager 5 fichiers",
+            "useAI": "Utiliser l'IA 5 fois",
+            "secureAccount": "Sécuriser votre compte"
+        }
+    },
+    "social": {
+        "voiceRooms": "Salons Vocaux",
+        "communityEvents": "Événements Communautaires",
+        "createRoom": "Créer un Salon",
+        "joinRoom": "Rejoindre",
+        "leaveRoom": "Quitter",
+        "participants": "Participants",
+        "upcomingEvents": "Événements à Venir",
+        "hostEvent": "Organiser un Événement"
+    },
+    "analytics": {
+        "dashboardTitle": "Analytics Avancées",
+        "dashboardSubtitle": "Insights détaillés sur votre activité de communication",
+        "generatingReport": "Génération du rapport...",
+        "noDataTitle": "Aucune donnée d'analyse",
+        "noDataDescription": "Commencez à utiliser l'application pour générer vos premières analyses",
+        "generateFirstReport": "Générer mon premier rapport",
+        "refresh": "Actualiser",
+        "overallScore": "Score Global",
+        "generatedOn": "Généré le",
+        "overview": "Vue d'ensemble",
+        "relationships": "Relations",
+        "productivity": "Productivité",
+        "mood": "Humeur",
+        "goals": "Objectifs",
+        "privacyMinimal": "Confidentialité Maximale",
+        "privacyBalanced": "Équilibre",
+        "privacyDetailed": "Analyses Détaillées",
+        "totalMessages": "Messages Totaux",
+        "contacts": "Contacts",
+        "timeSpent": "Temps Passé",
+        "wellbeingScore": "Bien-être"
+    },
+    "subscription": {
+        "title": "Plans et Tarifs",
+        "subtitle": "Choisissez le plan qui correspond le mieux à vos besoins",
+        "monthly": "Mensuel",
+        "yearly": "Annuel (-20%)",
+        "currentPlan": "Plan Actuel",
+        "subscribe": "S'abonner",
+        "contactSales": "Contacter les ventes",
+        "recommended": "Recommandé",
+        "month": "mois",
+        "year": "an",
+        "features": {
+            "unlimitedBridges": "Ponts illimités",
+            "storage": "{{amount}}GB de stockage",
+            "prioritySupport": "Support prioritaire",
+            "advancedAI": "IA Avancée",
+            "offlineMode": "Mode hors ligne",
+            "advancedAnalytics": "Analytiques avancées",
+            "sso": "SSO & Sécurité avancée",
+            "dedicatedManager": "Gestionnaire de compte dédié",
+            "sla": "SLA garanti"
+        },
+        "tiers": {
+            "free": {
+                "name": "Gratuit",
+                "description": "Pour les individus et les petits projets"
+            },
+            "pro": {
+                "name": "Pro",
+                "description": "Pour les professionnels et les créateurs"
+            },
+            "enterprise": {
+                "name": "Entreprise",
+                "description": "Pour les grandes équipes et organisations"
+            }
+        },
+        "upgrade": {
+            "title": "Fonctionnalité Premium",
+            "message": "Passez à la version Pro pour débloquer cette fonctionnalité.",
+            "cta": "Voir les plans"
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "common": {
+        "save": "حفظ",
+        "cancel": "إلغاء",
+        "delete": "حذف",
+        "edit": "تعديل",
+        "send": "إرسال",
+        "search": "بحث",
+        "loading": "جاري التحميل...",
+        "error": "خطأ",
+        "success": "نجاح"
+    },
+    "auth": {
+        "login": "تسجيل الدخول",
+        "logout": "تسجيل الخروج",
+        "signup": "إنشاء حساب",
+        "email": "البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "username": "اسم المستخدم",
+        "confirmPassword": "تأكيد كلمة المرور",
+        "forgotPassword": "نسيت كلمة المرور؟",
+        "noAccount": "ليس لديك حساب؟",
+        "hasAccount": "لديك حساب بالفعل؟",
+        "welcome": "مرحباً بك في Palfrog",
+        "secureChat": "دردشة آمنة من نظير إلى نظير"
+    },
+    "chat": {
+        "messages": "الرسائل",
+        "contacts": "جهات الاتصال",
+        "typeMessage": "اكتب رسالتك...",
+        "online": "متصل",
+        "offline": "غير متصل",
+        "typing": "{{user}} يكتب...",
+        "encryptionActive": "التشفير التام نشط",
+        "encryptionPending": "جاري إنشاء التشفير...",
+        "newMessage": "رسالة جديدة من {{user}}"
+    },
+    "calls": {
+        "incomingCall": "مكالمة واردة",
+        "outgoingCall": "مكالمة صادرة",
+        "audioCall": "مكالمة صوتية",
+        "videoCall": "مكالمة فيديو",
+        "accept": "قبول",
+        "reject": "رفض",
+        "endCall": "إنهاء المكالمة",
+        "mute": "كتم الصوت",
+        "unmute": "إلغاء كتم الصوت",
+        "videoOn": "تشغيل الكاميرا",
+        "videoOff": "إيقاف الكاميرا",
+        "screenShare": "مشاركة الشاشة"
+    },
+    "files": {
+        "sendFile": "إرسال ملف",
+        "fileTooLarge": "الملف كبير جداً. الحد الأقصى: {{size}} ميجابايت",
+        "transferProgress": "جاري النقل",
+        "transferComplete": "اكتمل النقل",
+        "transferFailed": "فشل النقل",
+        "download": "تحميل"
+    },
+    "settings": {
+        "settings": "الإعدادات",
+        "language": "اللغة",
+        "theme": "المظهر",
+        "notifications": "الإشعارات",
+        "security": "الأمان",
+        "privacy": "الخصوصية"
+    },
+    "security": {
+        "encryption": "التشفير",
+        "endToEndEncryption": "التشفير من طرف إلى طرف",
+        "regenerateKeys": "إعادة توليد المفاتيح",
+        "backupKeys": "نسخ المفاتيح احتياطياً",
+        "twoFactorAuth": "المصادقة الثنائية",
+        "twoFactorEnabled": "تم تفعيل المصادقة الثنائية",
+        "scanQRCode": "امسح رمز الاستجابة السريعة هذا باستخدام تطبيق المصادقة",
+        "enable2FA": "تفعيل المصادقة الثنائية",
+        "scanWithAuthenticator": "امسح باستخدام Google Authenticator أو Authy",
+        "enterVerificationCode": "أدخل رمز التحقق",
+        "verifyAndEnable": "تحقق وتفعيل",
+        "invalidCode": "رمز غير صالح"
+    }
+}
