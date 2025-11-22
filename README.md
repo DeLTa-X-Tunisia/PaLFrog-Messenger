@@ -39,6 +39,7 @@ Plateforme de messagerie souveraine, Texte, Audio, Video, Cam, fluide et sécuri
 
 <img width="862" height="240" alt="image" src="https://github.com/user-attachments/assets/77c322e6-3dd4-44e7-9961-4e6dbdc24ec3" />
 
+</div>
 
 ## 🚀 Vision
 
