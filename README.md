@@ -6,6 +6,34 @@ Plateforme de messagerie souveraine, Texte, Audio, Video, Cam, fluide et sécuri
 
 <img width="958" height="458" alt="image" src="https://github.com/user-attachments/assets/d3a8b6ba-f781-496e-9df8-ad9062a38a8a" />
 
+<img width="1428" height="430" alt="image" src="https://github.com/user-attachments/assets/4fbd8577-d1bd-482f-9c6b-701b2a0d5643" />
+
+<img width="1663" height="661" alt="image" src="https://github.com/user-attachments/assets/c5b328f1-b9a1-4fb4-bd9c-b04992ac5645" />
+
+<img width="1453" height="933" alt="image" src="https://github.com/user-attachments/assets/70f956b1-68ff-4706-8d46-96247e28170e" />
+
+<img width="1455" height="1009" alt="image" src="https://github.com/user-attachments/assets/5cb9015b-8f9b-4538-8f81-842238d6c952" />
+
+<img width="1453" height="943" alt="image" src="https://github.com/user-attachments/assets/3d23ce26-f6df-466e-a0a4-6ee4e61be4d5" />
+
+<img width="1428" height="986" alt="image" src="https://github.com/user-attachments/assets/dd96b5a1-8f6c-4aaa-9be6-ce53f1fe8d79" />
+
+<img width="930" height="628" alt="image" src="https://github.com/user-attachments/assets/be32136f-2868-4cb0-91ad-4a32c3848759" />
+
+<img width="936" height="474" alt="image" src="https://github.com/user-attachments/assets/df2cd94b-fce6-403f-9846-d93d1f77eb5e" />
+
+<img width="925" height="684" alt="image" src="https://github.com/user-attachments/assets/73d164c4-099f-4285-bf82-fd8d0fba05d5" />
+
+<img width="1093" height="807" alt="image" src="https://github.com/user-attachments/assets/ba3e534f-3575-4592-b4ce-e711af4d4e7c" />
+
+<img width="945" height="398" alt="image" src="https://github.com/user-attachments/assets/d90e9d22-7764-4123-b7ea-35706238c8d6" />
+
+<img width="913" height="833" alt="image" src="https://github.com/user-attachments/assets/0c9fb8df-af99-461c-a1c9-fbc2a4bb7271" />
+
+<img width="954" height="954" alt="image" src="https://github.com/user-attachments/assets/6e26033c-a373-4903-a1e1-860300e917ba" />
+
+<img width="862" height="240" alt="image" src="https://github.com/user-attachments/assets/77c322e6-3dd4-44e7-9961-4e6dbdc24ec3" />
+
 
 ## 🚀 Vision
 
