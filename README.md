@@ -4,6 +4,9 @@
 
 Plateforme de messagerie souveraine, Texte, Audio, Video, Cam, fluide et sécurisée, avec agents IA intégrés, WebRTC, et gestion avancée des rôles.
 
+<img width="958" height="458" alt="image" src="https://github.com/user-attachments/assets/d3a8b6ba-f781-496e-9df8-ad9062a38a8a" />
+
+
 ## 🚀 Vision
 
 PaLFroG Messenger réunit :
