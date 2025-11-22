@@ -1,13 +1,14 @@
 <div align="center">
 
-# 🤖 ⋆.˚✮🎧✮˚.⋆ PaLFrog - Messenger 🍿🎥✮⋆˙💖💗🥰💞
+# 🤖 ⋆.˚✮🎧✮˚.⋆ PaLFrog - Messenger 🍿🎥✮⋆˙💖🥰💞
+# سلعة تونسيّة 100%
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Azizi%20Mounir-blue?style=for-the-badge" alt="Author: Azizi Mounir">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Flag of Tunisia" width="60" height="40">
   <img src="https://img.shields.io/badge/Phone-%2B216%2027%20774%20075-006400?style=for-the-badge" alt="Phone: +21627774075">
 </p>
 
-Plateforme de messagerie souveraine, Texte, Audio, Video, Cam, fluide et sécurisée, avec agents IA intégrés, WebRTC, et gestion avancée des rôles.
+Plateforme de messagerie souveraine, Texte, Audio, Video, Cam, fluide et sécurisée, Multilanguage, avec agents IA intégrés, WebRTC, et gestion avancée des rôles.
 
 <img width="958" height="458" alt="image" src="https://github.com/user-attachments/assets/d3a8b6ba-f781-496e-9df8-ad9062a38a8a" />
 
